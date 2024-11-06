@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="YOUR_GIF_URL_HERE" alt="Coding GIF" width="500"/>
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Coding GIF" width="500"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamothk02&label=Profile%20views&color=0e75b6&style=flat" alt="chamothk02" /> </p>
